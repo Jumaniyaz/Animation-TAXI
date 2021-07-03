@@ -61,7 +61,12 @@
     top: 50%;
 }
 
+.container-1{
+    overflow: hidden;
+}
+
 .container{
+    
     position: absolute;
     bottom: 70%;
     width: 400px;
